@@ -1,0 +1,31 @@
+.social-icons {
+  color: #fff;
+  text-decoration: none;
+
+  .social-icon {
+    color: #fff;
+    font-size: 22px;
+    -o-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    transition: .5s;
+    background-color: $sidebar-text;
+    margin-bottom: 4px;
+  }
+
+  .facebook:hover {
+    background-color: #3d5b99;
+  }
+
+  .twitter:hover {
+    background-color: #00aced;
+  }
+
+  .whatsapp:hover {
+    background-color: #25d366;
+  }
+
+  .telegram:hover {
+    background-color: #2ca5e0;
+  }
+}
