@@ -8,7 +8,7 @@ return [
         "notification_position" => "toast-bottom-right",
         "page_length" => 50,
         "company_name" => "tpbankvay24h",
-        "company_description" => "TP-Bank vay24h",
+        "company_description" => "",
         "contact_info" => "",
         "reset_password_token_lifetime" => 30,
         "lock_screen" => 0,
